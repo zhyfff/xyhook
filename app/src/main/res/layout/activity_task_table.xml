@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include android:id="@+id/toolBar" layout="@layout/toolbar"></include>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/stoke_bg"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="40dp">
+                <TextView
+                    android:textSize="18sp"
+                    android:gravity="center"
+                    android:text="seq"
+                    android:id="@+id/tb_seq"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    />
+                <View
+                    android:background="@color/colorAccent"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent">
+
+                </View>
+                <TextView
+                    android:paddingLeft="20dp"
+                    android:id="@+id/ta_seq"
+                    android:layout_weight="3"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/stoke_bg"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="40dp">
+                <TextView
+                    android:textSize="18sp"
+                    android:gravity="center"
+                    android:text="province"
+                    android:id="@+id/tb_province"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    />
+                <View
+                    android:background="@color/colorAccent"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent">
+
+                </View>
+                <TextView
+                    android:paddingLeft="20dp"
+                    android:id="@+id/ta_province"
+                    android:layout_weight="3"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/stoke_bg"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="40dp">
+                <TextView
+                    android:textSize="18sp"
+                    android:gravity="center"
+                    android:text="city"
+                    android:id="@+id/tb_city"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    />
+                <View
+                    android:background="@color/colorAccent"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent">
+
+                </View>
+                <TextView
+                    android:paddingLeft="20dp"
+                    android:id="@+id/ta_city"
+                    android:layout_weight="3"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/stoke_bg"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="40dp">
+                <TextView
+                    android:textSize="18sp"
+                    android:gravity="center"
+                    android:text="area"
+                    android:id="@+id/tb_area"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    />
+                <View
+                    android:background="@color/colorAccent"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent">
+
+                </View>
+                <TextView
+                    android:paddingLeft="20dp"
+                    android:id="@+id/ta_area"
+                    android:layout_weight="3"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/stoke_bg"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="40dp">
+                <TextView
+                    android:textSize="18sp"
+                    android:gravity="center"
+                    android:text="startPage"
+                    android:id="@+id/tb_startPage"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+
+                    />
+                <View
+                    android:background="@color/colorAccent"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent">
+
+                </View>
+                <TextView
+                    android:paddingLeft="20dp"
+                    android:id="@+id/ta_startPage"
+                    android:layout_weight="3"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/stoke_bg"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="40dp">
+                <TextView
+                    android:textSize="18sp"
+                    android:gravity="center"
+                    android:text="endPage"
+                    android:id="@+id/tb_endPage"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    />
+                <View
+                    android:background="@color/colorAccent"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent">
+
+                </View>
+                <TextView
+                    android:paddingLeft="20dp"
+                    android:id="@+id/ta_endPage"
+                    android:layout_weight="3"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/stoke_bg"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="40dp">
+                <TextView
+                    android:textSize="18sp"
+                    android:gravity="center"
+                    android:text="flag"
+                    android:id="@+id/tb_flag"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    />
+                <View
+                    android:background="@color/colorAccent"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent">
+
+                </View>
+                <TextView
+                    android:paddingLeft="20dp"
+                    android:id="@+id/ta_flag"
+                    android:layout_weight="3"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/change_task"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:layout_margin="20dp"
+                android:text="修改任务表状态"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</LinearLayout>

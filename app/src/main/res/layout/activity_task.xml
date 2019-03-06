@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.TaskActivity"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/toolBar" layout="@layout/toolbar"></include>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolBar">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/title1"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:text="任务id"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:padding="10dp"
+                />
+            <TextView
+                android:id="@+id/tx_id"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:text="cece"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:layout_toRightOf="@+id/title1"
+                />
+
+
+            <TextView
+                android:id="@+id/title2"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:text="任务名称"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:padding="10dp"
+                android:layout_below="@+id/title1"/>
+
+            <TextView
+                android:id="@+id/tx_idName"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:text="cece"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:layout_toRightOf="@+id/title2"
+                android:layout_below="@+id/tx_id"
+                />
+
+            <TextView
+                android:id="@+id/title3"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:text="省份"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:padding="10dp"
+                android:layout_below="@+id/title2"/>
+
+            <TextView
+                android:id="@+id/tx_province"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:text="cece"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:layout_toRightOf="@+id/title3"
+                android:layout_below="@+id/tx_idName"
+                />
+
+            <TextView
+                android:id="@+id/title4"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:text="城市"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:padding="10dp"
+                android:layout_below="@+id/title3"/>
+
+            <TextView
+                android:id="@+id/tx_city"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:text="cece"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:layout_toRightOf="@+id/title4"
+                android:layout_below="@+id/tx_province"
+                />
+
+
+            <TextView
+                android:id="@+id/title5"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:text="地区"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:padding="10dp"
+                android:layout_below="@+id/title4"/>
+
+            <TextView
+                android:id="@+id/tx_area"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:text="cece"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:layout_toRightOf="@+id/title5"
+                android:layout_below="@+id/tx_city"
+                />
+
+
+            <TextView
+                android:id="@+id/title6"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:text="采集页数"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:padding="10dp"
+                android:layout_below="@+id/title5"/>
+
+            <TextView
+                android:id="@+id/tx_Endpage"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:text="cece"
+                android:textSize="15dp"
+                android:padding="10dp"
+                android:layout_toRightOf="@+id/title6"
+                android:layout_below="@+id/tx_area"
+                />
+
+
+            <Button
+                android:id="@+id/but_task"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/title6"
+                android:text="@string/Tsk"
+                android:layout_margin="20dp"
+                android:padding="10dp"
+
+                />
+
+            <Button
+                android:id="@+id/but_taskdetail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/but_task"
+                android:text="@string/taskdetail"
+                android:layout_margin="20dp"
+                android:padding="10dp"
+
+                />
+
+            <Button
+                android:id="@+id/but_start"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/but_taskdetail"
+                android:text="@string/startTsk"
+                android:layout_margin="20dp"
+                android:padding="10dp"
+
+                />
+
+        </RelativeLayout>
+
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

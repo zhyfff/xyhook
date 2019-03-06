@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include android:id="@+id/toolBar" layout="@layout/toolbar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolBar">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+            <!--<Button-->
+                <!--android:textSize="20sp"-->
+                <!--android:id="@+id/btn_add"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:background="@color/colorAccent"-->
+                <!--android:elevation="5dp"-->
+                <!--android:text="增、删任务"-->
+                <!--android:textColor="@color/cardview_light_background"-->
+                <!--android:textAllCaps="false"-->
+                <!--android:layout_below="@+id/recyclerView"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:padding="10dp"/>-->
+
+
+            <!--<Button-->
+                <!--android:textSize="20sp"-->
+                <!--android:id="@+id/btn_query"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="10dp"-->
+                <!--android:background="@color/colorAccent"-->
+                <!--android:elevation="5dp"-->
+                <!--android:text="改、查任务"-->
+                <!--android:textColor="@color/cardview_light_background"-->
+                <!--android:textAllCaps="false"-->
+                <!--android:layout_below="@+id/btn_add"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:padding="10dp"/>-->
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/toolbar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        android:id="@+id/scrollview">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/et_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:hint="请输入id（只能是数字）"
+                android:digits="1234567890"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/et_idName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:hint="请输入任务名称"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/et_province"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:hint="请输入省份（例如：辽宁）"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/et_city"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:hint="请输入城市（例如：沈阳）"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/et_area"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:hint="请输入地区（例如：大东区，可不填）"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/et_endPage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:hint="请输入采集页数（只能是数字）"
+                android:digits="1234567890"
+                android:padding="10dp" />
+
+            <Button
+                android:id="@+id/btn_insert"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@color/colorAccent"
+                android:text="添加任务"
+                android:textAllCaps="false"
+                android:textColor="@color/cardview_light_background" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>

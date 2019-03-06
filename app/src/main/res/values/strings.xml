@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">闲鱼采集器beta</string>
+    <string name="but1">开始</string>
+    <string name="startTsk">开始任务</string>
+    <string name="Tsk">创建任务表</string>
+    <string name="taskdetail">查看任务表详情</string>
+    <string name="update">更新</string>
+    <string name="add">添加</string>
+    <string name="look">查看</string>
+
+</resources>

@@ -1,0 +1,315 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:2:1-97:12
+MERGED from [io.realm:realm-android-library:4.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\realm-android-library-4.3.1.aar\9c2ea78574eea4ba9f1dfb3a29883ba1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9136a28534c22aad0cfa0f1827ca7f17\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\dad1cf617b724959bcff3ee21beef5c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\97ccbf22b9ca5dd99692f75fcda169aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\d5b2eece8d3109262c04f63d23021ed9\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\aecaa2744662538591b7c029ec052423\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ac4d8a26f23cd7862d8efc00f9133dcb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\relinker-1.2.2.aar\447effc6d8a58eef78bde3047e7f155b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4d101217cc9e3dcd2bf1e06228bd9e16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2d5d6b82dd700ffa371ca050d6059a10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7a1a18e8857907a9e23bfe87c45a9b0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\e4bc47adfe01f1fe450bbdcfc6bf60c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\43d658c6c3860a4687da51a8462ae6b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2cae39afb6223b83857b32fb5c1e9867\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\7f7f137a1d1ba89912be7a0c6ec6b6b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\280a07037f97eb24bccf1ac0e46cae6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\593bc21cbefc823e73f30bf7914724fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fcf7b63e727ff7f4ca39afa0a44ee817\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1cf8e8ca41bb906fba2ae47033137b03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bdfe541eff044b9650eb65672b8bb32b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\35d5259b596224dde4bc08b1b8f3dbfa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3a58fa4f5f726e4c628c8693f358b870\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b468b745e7f46b4c1d4b1ee666b2dce\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\831d4934d12c400a6fe0f39fe2f95427\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\371dec1a3613d85c0ede19837bcc30be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\2d9cbe20debefecd1014fedcb60f7e13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3f8f814763dc1d98ed1a45249ec1b3fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5089eb2afb6e6534d45279acc31d322e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\13ca55b5435d3f4f6dce1cb908648c48\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\70a534029408518fa504c765373738f5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c45881156d1514ffa63a9c69503a8205\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bfd043de602eb06f4fa64c89e5607006\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\399d6d5a57af903196b6f6fa41c8c097\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0cb5426969b2a82d987a95344827711b\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:2:1-97:12
+	package
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml
+		INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml
+		INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml
+		INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEM
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:11:5-83
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:11:22-80
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.INTERACT_ACROSS_USERS_FULL
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:14:5-16:47
+	tools:ignore
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:15:9-69
+application
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:18:5-95:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9136a28534c22aad0cfa0f1827ca7f17\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9136a28534c22aad0cfa0f1827ca7f17\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\aecaa2744662538591b7c029ec052423\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\aecaa2744662538591b7c029ec052423\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b468b745e7f46b4c1d4b1ee666b2dce\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b468b745e7f46b4c1d4b1ee666b2dce\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\831d4934d12c400a6fe0f39fe2f95427\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\831d4934d12c400a6fe0f39fe2f95427\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b468b745e7f46b4c1d4b1ee666b2dce\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:21:9-38
+	android:allowBackup
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:19:9-53
+meta-data#xposedmodule
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:26:9-28:36
+	android:value
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:28:13-33
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:27:13-40
+meta-data#xposeddescription
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:31:9-33:38
+	android:value
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:33:13-35
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:32:13-45
+meta-data#xposedminversion
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:36:9-38:34
+	android:value
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:38:13-31
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:37:13-44
+activity#com.example.idelfishhook.MainActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:40:9-49:20
+	android:label
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:42:13-45
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:41:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:47:27-74
+activity#com.example.idelfishhook.Activity.LocationListActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:50:9-52:72
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:51:13-58
+activity#com.example.idelfishhook.Activity.QueryActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:53:9-55:72
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:55:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:54:13-51
+activity#com.example.idelfishhook.Activity.AllLocActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:56:9-58:72
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:58:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:57:13-52
+activity#com.example.idelfishhook.Activity.ConditionQueryActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:59:9-61:72
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:61:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:60:13-60
+activity#com.example.idelfishhook.Activity.UpdateActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:62:9-64:72
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:64:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:63:13-52
+activity#com.example.idelfishhook.Activity.InsertActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:65:9-67:72
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:67:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:66:13-52
+activity#com.example.idelfishhook.Activity.TaskActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:68:9-70:72
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:70:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:69:13-50
+activity#com.example.idelfishhook.Activity.TaskTableActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:71:9-73:72
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:73:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:72:13-55
+activity#com.example.idelfishhook.Activity.UpdateTaskTableActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:74:9-76:72
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:76:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:75:13-61
+activity#com.example.idelfishhook.Activity.ErrorActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:77:9-79:72
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:79:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:78:13-51
+activity#com.example.idelfishhook.Activity.GoodsListActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:80:9-82:72
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:82:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:81:13-55
+activity#com.example.idelfishhook.Activity.AddGoodsClassActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:83:9-85:72
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:85:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:84:13-59
+activity#com.example.idelfishhook.Activity.UpdateGoodsClassActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:86:9-88:72
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:88:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:87:13-62
+activity#com.example.idelfishhook.Activity.QuerryHostActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:89:9-91:71
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:91:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:90:13-56
+activity#com.example.idelfishhook.Activity.UpdateHostActivity
+ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:92:9-94:71
+	android:theme
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:94:13-69
+	android:name
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml:93:13-56
+uses-sdk
+INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml
+INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml
+MERGED from [io.realm:realm-android-library:4.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\realm-android-library-4.3.1.aar\9c2ea78574eea4ba9f1dfb3a29883ba1\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library:4.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\realm-android-library-4.3.1.aar\9c2ea78574eea4ba9f1dfb3a29883ba1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9136a28534c22aad0cfa0f1827ca7f17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\9136a28534c22aad0cfa0f1827ca7f17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\dad1cf617b724959bcff3ee21beef5c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\dad1cf617b724959bcff3ee21beef5c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\97ccbf22b9ca5dd99692f75fcda169aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\97ccbf22b9ca5dd99692f75fcda169aa\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\d5b2eece8d3109262c04f63d23021ed9\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\d5b2eece8d3109262c04f63d23021ed9\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\aecaa2744662538591b7c029ec052423\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\aecaa2744662538591b7c029ec052423\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ac4d8a26f23cd7862d8efc00f9133dcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ac4d8a26f23cd7862d8efc00f9133dcb\AndroidManifest.xml:20:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\relinker-1.2.2.aar\447effc6d8a58eef78bde3047e7f155b\AndroidManifest.xml:7:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\relinker-1.2.2.aar\447effc6d8a58eef78bde3047e7f155b\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4d101217cc9e3dcd2bf1e06228bd9e16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4d101217cc9e3dcd2bf1e06228bd9e16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2d5d6b82dd700ffa371ca050d6059a10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2d5d6b82dd700ffa371ca050d6059a10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7a1a18e8857907a9e23bfe87c45a9b0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\7a1a18e8857907a9e23bfe87c45a9b0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\e4bc47adfe01f1fe450bbdcfc6bf60c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\e4bc47adfe01f1fe450bbdcfc6bf60c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\43d658c6c3860a4687da51a8462ae6b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\43d658c6c3860a4687da51a8462ae6b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2cae39afb6223b83857b32fb5c1e9867\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2cae39afb6223b83857b32fb5c1e9867\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\7f7f137a1d1ba89912be7a0c6ec6b6b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\7f7f137a1d1ba89912be7a0c6ec6b6b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\280a07037f97eb24bccf1ac0e46cae6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\280a07037f97eb24bccf1ac0e46cae6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\593bc21cbefc823e73f30bf7914724fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\593bc21cbefc823e73f30bf7914724fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fcf7b63e727ff7f4ca39afa0a44ee817\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fcf7b63e727ff7f4ca39afa0a44ee817\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1cf8e8ca41bb906fba2ae47033137b03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\1cf8e8ca41bb906fba2ae47033137b03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bdfe541eff044b9650eb65672b8bb32b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\bdfe541eff044b9650eb65672b8bb32b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\35d5259b596224dde4bc08b1b8f3dbfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\35d5259b596224dde4bc08b1b8f3dbfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3a58fa4f5f726e4c628c8693f358b870\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3a58fa4f5f726e4c628c8693f358b870\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b468b745e7f46b4c1d4b1ee666b2dce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3b468b745e7f46b4c1d4b1ee666b2dce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\831d4934d12c400a6fe0f39fe2f95427\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\831d4934d12c400a6fe0f39fe2f95427\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\371dec1a3613d85c0ede19837bcc30be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\371dec1a3613d85c0ede19837bcc30be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\2d9cbe20debefecd1014fedcb60f7e13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\2d9cbe20debefecd1014fedcb60f7e13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3f8f814763dc1d98ed1a45249ec1b3fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3f8f814763dc1d98ed1a45249ec1b3fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5089eb2afb6e6534d45279acc31d322e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5089eb2afb6e6534d45279acc31d322e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\13ca55b5435d3f4f6dce1cb908648c48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\13ca55b5435d3f4f6dce1cb908648c48\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\70a534029408518fa504c765373738f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\70a534029408518fa504c765373738f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c45881156d1514ffa63a9c69503a8205\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c45881156d1514ffa63a9c69503a8205\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bfd043de602eb06f4fa64c89e5607006\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bfd043de602eb06f4fa64c89e5607006\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\399d6d5a57af903196b6f6fa41c8c097\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\399d6d5a57af903196b6f6fa41c8c097\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0cb5426969b2a82d987a95344827711b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0cb5426969b2a82d987a95344827711b\AndroidManifest.xml:20:5-44
+INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml
+INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml
+		INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml
+		ADDED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml
+		INJECTED from F:\fanbianyi\AndroidKiller_v1.3.1\projects\idelfishHook\app\src\main\AndroidManifest.xml

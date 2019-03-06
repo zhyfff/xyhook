@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include android:id="@+id/toolBar" layout="@layout/toolbar"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <EditText
+                android:id="@+id/et_name"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:hint="请输入新的Name"
+                android:padding="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/et_province"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:hint="请输入新的省份"
+                android:padding="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/et_city"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:hint="请输入新的城市"
+                android:padding="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/et_area"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:hint="请输入新的地区"
+                android:padding="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/et_endPage"
+                android:layout_margin="20dp"
+                android:background="@drawable/stoke_bg"
+                android:hint="请输入新的采集页数"
+                android:padding="10dp"
+                android:digits="1234567890"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/btn_update"
+                android:textAllCaps="false"
+                android:text="@string/update"
+                android:textColor="@color/cardview_light_background"
+                android:layout_margin="20dp"
+                android:layout_width="match_parent"
+                android:background="@color/colorAccent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+</LinearLayout>
